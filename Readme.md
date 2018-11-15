@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[TransitionCustomizationController.cs](./CS/CustomizeTransition.Module.Win/Controllers/TransitionCustomizationController.cs) (VB: [TransitionCustomizationController.vb](./VB/CustomizeTransition.Module.Win/Controllers/TransitionCustomizationController.vb))**
+<!-- default file list end -->
 # How to: Access the Transition Manager
 
 
